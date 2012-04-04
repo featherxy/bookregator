@@ -1,0 +1,105 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:SignedRequestHelper.cs" caret="1063" fromTop="4" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:CSV.cs" caret="215" fromTop="10" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Program.cs" caret="134" fromTop="6" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Form1.Designer.cs" caret="532" fromTop="10" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="974" fromTop="9" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Form1.cs" caret="947" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:SignedRequestHelper.cs" caret="825" fromTop="11" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="1472" fromTop="12" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="1538" fromTop="6" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="5040" fromTop="5" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="6361" fromTop="22" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:CSV.cs" caret="215" fromTop="10" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="2143" fromTop="5" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="2282" fromTop="11" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="4742" fromTop="10" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="4500" fromTop="10" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="2545" fromTop="22" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="2380" fromTop="12" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Form1.Designer.cs" caret="5196" fromTop="8" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Form1.cs" caret="975" fromTop="9" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="1048" fromTop="7" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="1470" fromTop="16" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="976" fromTop="7" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="1293" fromTop="17" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="197" fromTop="10" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="633" fromTop="19" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Form1.cs" caret="946" fromTop="12" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:ItemLookup.cs" caret="2056" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="0" />
+      <Item value="outputPath" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="static" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="TextReader`0" priority="0" />
+      <Item value="String`0" priority="11" />
+      <Item value="for" priority="0" />
+      <Item value="requestedElements" priority="8" />
+      <Item value="Length" priority="1" />
+      <Item value="tableFormat" priority="0" />
+      <Item value="List" priority="7" />
+      <Item value="new" priority="12" />
+      <Item value="List&lt;string&gt;" priority="4" />
+      <Item value="tempList" priority="6" />
+      <Item value="foreach" priority="2" />
+      <Item value="string" priority="1" />
+      <Item value="CsvRow`0" priority="6" />
+      <Item value="CsvRow" priority="1" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="elements" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="FetchInformation`0" priority="0" />
+      <Item value="requestUrl" priority="0" />
+      <Item value="newRow" priority="1" />
+      <Item value="informationRow" priority="0" />
+      <Item value="column" priority="0" />
+      <Item value="table" priority="0" />
+      <Item value="destination" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="Insert`0" priority="0" />
+      <Item value="ToArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AmazonBookResearcher.CsvRow">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AmazonBookResearcher.Item">
+      <Item value="Lookup`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,747 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="information" priority="11" />
+      <Item value="break" priority="8" />
+      <Item value="if" priority="68" />
+      <Item value="value" priority="1" />
+      <Item value="null" priority="36" />
+      <Item value="return" priority="27" />
+      <Item value="false" priority="26" />
+      <Item value="continue" priority="3" />
+      <Item value="builder" priority="0" />
+      <Item value="outputStream" priority="5" />
+      <Item value="inputStream" priority="6" />
+      <Item value="elementStream" priority="3" />
+      <Item value="List" priority="42" />
+      <Item value="String`0" priority="102" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="string" priority="25" />
+      <Item value="Alert`0" priority="8" />
+      <Item value="private" priority="46" />
+      <Item value="static" priority="19" />
+      <Item value="int" priority="25" />
+      <Item value="requests" priority="17" />
+      <Item value="requestsProcessed" priority="3" />
+      <Item value="requestsProcessedWindow" priority="4" />
+      <Item value="public" priority="49" />
+      <Item value="void" priority="16" />
+      <Item value="this" priority="19" />
+      <Item value="title" priority="1" />
+      <Item value="message" priority="14" />
+      <Item value="new" priority="84" />
+      <Item value="List&lt;string&gt;" priority="20" />
+      <Item value="Alert" priority="0" />
+      <Item value="progressWindow" priority="19" />
+      <Item value="elements" priority="17" />
+      <Item value="titleNode" priority="3" />
+      <Item value="out" priority="10" />
+      <Item value="error" priority="34" />
+      <Item value="table" priority="10" />
+      <Item value="errorMessageNodes" priority="0" />
+      <Item value="Timer`0" priority="1" />
+      <Item value="UpdateTimer`0" priority="1" />
+      <Item value="window" priority="0" />
+      <Item value="timer" priority="4" />
+      <Item value="Timer" priority="0" />
+      <Item value="OnTimedEvent`0" priority="0" />
+      <Item value="true" priority="14" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="Message" priority="0" />
+      <Item value="UpdateTimer" priority="0" />
+      <Item value="updateTimer" priority="1" />
+      <Item value="class" priority="3" />
+      <Item value="ISynchronizeInvoke`0" priority="0" />
+      <Item value="AlertThread`0" priority="0" />
+      <Item value="lock" priority="0" />
+      <Item value="progress" priority="6" />
+      <Item value="ThreadStaticAttribute`0" priority="2" />
+      <Item value="thread" priority="5" />
+      <Item value="Thread" priority="0" />
+      <Item value="ThreadAbortException`0" priority="0" />
+      <Item value="DataMisalignedException`0" priority="0" />
+      <Item value="TextWriter`0" priority="2" />
+      <Item value="textWriter" priority="8" />
+      <Item value="StreamReader`0" priority="1" />
+      <Item value="for" priority="5" />
+      <Item value="i" priority="13" />
+      <Item value="errorMessage" priority="0" />
+      <Item value="const" priority="5" />
+      <Item value="bool" priority="11" />
+      <Item value="index" priority="7" />
+      <Item value="hasFetched" priority="4" />
+      <Item value="else" priority="17" />
+      <Item value="IndexOutOfRangeException`0" priority="0" />
+      <Item value="Stream`0" priority="4" />
+      <Item value="using" priority="6" />
+      <Item value="StreamWriter`0" priority="0" />
+      <Item value="remainingResultsOutput" priority="0" />
+      <Item value="responseGroup" priority="9" />
+      <Item value="saveFileDialog2" priority="0" />
+      <Item value="ClearStreams`0" priority="2" />
+      <Item value="ItemLookup`0" priority="16" />
+      <Item value="MY_AWS_SECRET_KEY" priority="2" />
+      <Item value="accessKeyID" priority="1" />
+      <Item value="secretAccessKey" priority="0" />
+      <Item value="Close`0" priority="13" />
+      <Item value="AccountDetails`0" priority="0" />
+      <Item value="requestUrl" priority="0" />
+      <Item value="ListBindingHelper`0" priority="0" />
+      <Item value="SignedRequestHelper`0" priority="1" />
+      <Item value="signedRequestHelper" priority="0" />
+      <Item value="SignedRequestHelper" priority="0" />
+      <Item value="helper" priority="1" />
+      <Item value="e" priority="6" />
+      <Item value="requestString" priority="1" />
+      <Item value="testElements" priority="1" />
+      <Item value="IFeatureSupport`0" priority="1" />
+      <Item value="DesignOnlyAttribute`0" priority="0" />
+      <Item value="ISerializable`0" priority="1" />
+      <Item value="MY_AWS_ACCESS_KEY_ID" priority="0" />
+      <Item value="Serializable" priority="2" />
+      <Item value="AccountDetailsContainer`0" priority="3" />
+      <Item value="AccountDetailsContainer" priority="1" />
+      <Item value="bf" priority="1" />
+      <Item value="file" priority="0" />
+      <Item value="try" priority="2" />
+      <Item value="FileNotFoundException`0" priority="0" />
+      <Item value="MessageForm`0" priority="7" />
+      <Item value="accountDetails" priority="9" />
+      <Item value="throw" priority="3" />
+      <Item value="FileNotFoundException" priority="0" />
+      <Item value="accountDetailsContainer" priority="4" />
+      <Item value="openWrite" priority="0" />
+      <Item value="fileStream" priority="2" />
+      <Item value="binaryFormatter" priority="1" />
+      <Item value="_accountDetails" priority="2" />
+      <Item value="AccountLoadForm`0" priority="0" />
+      <Item value="label2" priority="0" />
+      <Item value="label1" priority="0" />
+      <Item value="close" priority="3" />
+      <Item value="useLoaded" priority="2" />
+      <Item value="Load`0" priority="1" />
+      <Item value="OnLoad`0" priority="3" />
+      <Item value="override" priority="7" />
+      <Item value="Load" priority="3" />
+      <Item value="Focus`0" priority="1" />
+      <Item value="elementBrowse" priority="2" />
+      <Item value="CenterToScreen`0" priority="0" />
+      <Item value="unformattedError" priority="2" />
+      <Item value="Length" priority="13" />
+      <Item value="itemLookup" priority="23" />
+      <Item value="ItemLookup" priority="2" />
+      <Item value="messageForm" priority="6" />
+      <Item value="MessageForm" priority="0" />
+      <Item value="do" priority="1" />
+      <Item value="StringBuilder`0" priority="1" />
+      <Item value="stringBuilder" priority="11" />
+      <Item value="StringBuilder" priority="3" />
+      <Item value="backgroundWorker1" priority="4" />
+      <Item value="TotalRequests" priority="7" />
+      <Item value="CurrentRequests" priority="1" />
+      <Item value="CurrentRequest" priority="7" />
+      <Item value="accountLoadForm" priority="1" />
+      <Item value="MinimizeBox" priority="1" />
+      <Item value="MaximizeBox" priority="3" />
+      <Item value="progressForm" priority="4" />
+      <Item value="OnKeyDown`0" priority="1" />
+      <Item value="KeyPreview" priority="1" />
+      <Item value="ControlBox" priority="2" />
+      <Item value="Update`0" priority="2" />
+      <Item value="label" priority="0" />
+      <Item value="Select`0" priority="0" />
+      <Item value="protected" priority="1" />
+      <Item value="Parent" priority="2" />
+      <Item value="StartPosition" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Form`0" priority="4" />
+      <Item value="FormStartPosition`0" priority="0" />
+      <Item value="finishMessage" priority="0" />
+      <Item value="prevElementsStream" priority="0" />
+      <Item value="prevOutputStream" priority="0" />
+      <Item value="CsvTable`0" priority="8" />
+      <Item value="compileTableWorker" priority="6" />
+      <Item value="Requests" priority="6" />
+      <Item value="Elements" priority="5" />
+      <Item value="response" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="while" priority="2" />
+      <Item value="PropertyChangedEventArgs`0" priority="0" />
+      <Item value="BackgroundWorker`0" priority="2" />
+      <Item value="worker" priority="3" />
+      <Item value="CsvTable" priority="2" />
+      <Item value="ResponseGroup" priority="0" />
+      <Item value="ProgressForm`0" priority="1" />
+      <Item value="Index" priority="1" />
+      <Item value="tableCompilation" priority="2" />
+      <Item value="SetMessage`0" priority="0" />
+      <Item value="mainForm" priority="3" />
+      <Item value="FormBorderStyle" priority="1" />
+      <Item value="compilationProgress" priority="4" />
+      <Item value="Icon" priority="0" />
+      <Item value="SuspendLayout`0" priority="0" />
+      <Item value="ResumeLayout`0" priority="0" />
+      <Item value="foreach" priority="18" />
+      <Item value="XmlElement`0" priority="0" />
+      <Item value="in" priority="10" />
+      <Item value="specialElements" priority="0" />
+      <Item value="specialParseElements" priority="0" />
+      <Item value="specialElement" priority="0" />
+      <Item value="urlElement" priority="0" />
+      <Item value="containsUrlElement" priority="1" />
+      <Item value="WebClient`0" priority="0" />
+      <Item value="webClient" priority="3" />
+      <Item value="WebClient" priority="0" />
+      <Item value="htmlSource" priority="1" />
+      <Item value="interface" priority="1" />
+      <Item value="enum" priority="1" />
+      <Item value="b" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="delegate" priority="1" />
+      <Item value="NamespaceHandling`0" priority="1" />
+      <Item value="namespace" priority="0" />
+      <Item value="oldDate" priority="3" />
+      <Item value="ImageListStreamer`0" priority="1" />
+      <Item value="ISBN" priority="3" />
+      <Item value="BaseUrl" priority="0" />
+      <Item value="isbn" priority="7" />
+      <Item value="SearchSpecification" priority="1" />
+      <Item value="metaData" priority="17" />
+      <Item value="doc" priority="19" />
+      <Item value="element" priority="4" />
+      <Item value="ISBNs" priority="11" />
+      <Item value="temp" priority="29" />
+      <Item value="CsvRow" priority="2" />
+      <Item value="FetchInformation`0" priority="2" />
+      <Item value="Application`0" priority="2" />
+      <Item value="WorldCatSearch`0" priority="4" />
+      <Item value="XDocument`0" priority="0" />
+      <Item value="xml" priority="0" />
+      <Item value="XElement`0" priority="0" />
+      <Item value="XmlDocument`0" priority="2" />
+      <Item value="XmlDocument" priority="0" />
+      <Item value="url" priority="2" />
+      <Item value="XmlNode`0" priority="9" />
+      <Item value="node" priority="14" />
+      <Item value="var" priority="6" />
+      <Item value="IRaiseItemChangedEvents`0" priority="0" />
+      <Item value="metaAttribute" priority="2" />
+      <Item value="row" priority="7" />
+      <Item value="CsvRow`0" priority="0" />
+      <Item value="XmlAttribute`0" priority="1" />
+      <Item value="attribute" priority="2" />
+      <Item value="nodes" priority="4" />
+      <Item value="List&lt;int&gt;" priority="1" />
+      <Item value="publicationYears" priority="4" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="ref" priority="2" />
+      <Item value="compileISBNs" priority="0" />
+      <Item value="ISBNCheck" priority="1" />
+      <Item value="Menu`0" priority="0" />
+      <Item value="AmazonForm`0" priority="1" />
+      <Item value="ISBNSave" priority="0" />
+      <Item value="compiledTableDialog" priority="1" />
+      <Item value="Search`0" priority="0" />
+      <Item value="ISBNOutput" priority="0" />
+      <Item value="metaDataBox" priority="2" />
+      <Item value="selectedIndicies" priority="0" />
+      <Item value="selectedItems" priority="1" />
+      <Item value="metaDat" priority="2" />
+      <Item value="oldestYearSelected" priority="5" />
+      <Item value="tempMeta" priority="0" />
+      <Item value="statCheck" priority="6" />
+      <Item value="xmlAttribute" priority="2" />
+      <Item value="WorldCatLookup`0" priority="2" />
+      <Item value="catLookup" priority="0" />
+      <Item value="WorldCatLookup" priority="0" />
+      <Item value="abstract" priority="0" />
+      <Item value="Lookup`0" priority="2" />
+      <Item value="virtual" priority="0" />
+      <Item value="long" priority="0" />
+      <Item value="Table" priority="0" />
+      <Item value="AmazonLookup`0" priority="2" />
+      <Item value="amazonLookup" priority="0" />
+      <Item value="lookup" priority="2" />
+      <Item value="Error" priority="3" />
+      <Item value="worldCatLookup" priority="0" />
+      <Item value="TextWriter" priority="0" />
+      <Item value="DataGridViewHitTestType`0" priority="0" />
+      <Item value="nullRow" priority="2" />
+      <Item value="tildeList" priority="3" />
+      <Item value="yearAttribute" priority="2" />
+      <Item value="parsedYear" priority="1" />
+      <Item value="catch" priority="0" />
+      <Item value="NullReferenceException`0" priority="0" />
+      <Item value="DataMisalignedException" priority="0" />
+      <Item value="XmlNodeList`0" priority="1" />
+      <Item value="nodeList" priority="6" />
+      <Item value="XmlAttributeCollection`0" priority="0" />
+      <Item value="attributes" priority="2" />
+      <Item value="statAttribute" priority="1" />
+      <Item value="nullReference" priority="2" />
+      <Item value="Exception" priority="0" />
+      <Item value="key" priority="6" />
+      <Item value="GoodReadsLookup`0" priority="1" />
+      <Item value="request" priority="1" />
+      <Item value="parsedRequest" priority="2" />
+      <Item value="elementList" priority="0" />
+      <Item value="requestCheckBox" priority="2" />
+      <Item value="BookResearcher" priority="3" />
+      <Item value="GoodReads" priority="1" />
+      <Item value="Properties" priority="0" />
+      <Item value="ParseRequest`0" priority="0" />
+      <Item value="goodReadsSearch" priority="0" />
+      <Item value="search" priority="3" />
+      <Item value="GoodReadsSearch" priority="0" />
+      <Item value="openRequestList" priority="5" />
+      <Item value="requestInput" priority="2" />
+      <Item value="MessageBox`0" priority="3" />
+      <Item value="Progress`0" priority="0" />
+      <Item value="Progress" priority="0" />
+      <Item value="TextReader`0" priority="0" />
+      <Item value="textReader" priority="0" />
+      <Item value="header" priority="0" />
+      <Item value="tableHeader" priority="1" />
+      <Item value="TableHeader" priority="1" />
+      <Item value="GetXmlUrl`0" priority="0" />
+      <Item value="requestsCount" priority="0" />
+      <Item value="remainingRequestsDialog" priority="2" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="TimeSpan`0" priority="2" />
+      <Item value="intialTime" priority="0" />
+      <Item value="elapsedTime" priority="3" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="secret" priority="2" />
+      <Item value="goodReadsAccountDetails" priority="0" />
+      <Item value="GoodReadsAccountDetailsForm`0" priority="0" />
+      <Item value="GoodReadsAccountDetails`0" priority="4" />
+      <Item value="GoodReadsSearch`0" priority="9" />
+      <Item value="Key" priority="0" />
+      <Item value="GoodReadsAccountDetails" priority="0" />
+      <Item value="GetAccessibilityObjectById`0" priority="0" />
+      <Item value="secretKey" priority="2" />
+      <Item value="readonly" priority="5" />
+      <Item value="XmlException" priority="0" />
+      <Item value="IsGuiView" priority="0" />
+      <Item value="IsGraphicalView" priority="1" />
+      <Item value="responseGroupLabel" priority="0" />
+      <Item value="elementLabel" priority="0" />
+      <Item value="ComboBox`0" priority="0" />
+      <Item value="responseGroupBox" priority="1" />
+      <Item value="ObjectCollection" priority="0" />
+      <Item value="amazonElements" priority="2" />
+      <Item value="decimal" priority="0" />
+      <Item value="Link" priority="1" />
+      <Item value="amazonElementsTextBox" priority="1" />
+      <Item value="elementConstants" priority="0" />
+      <Item value="DataGridViewElementStates`0" priority="0" />
+      <Item value="calculateOldestYear" priority="0" />
+      <Item value="messageBox" priority="0" />
+      <Item value="lines" priority="0" />
+      <Item value="RichMessageBox`0" priority="3" />
+      <Item value="helpInfo" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="17" />
+      <Item value="ToString`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.Alert">
+      <Item value="Show`0" priority="4" />
+      <Item value="Name" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="message" priority="0" />
+      <Item value="SetMessage`0" priority="8" />
+      <Item value="Close`0" priority="0" />
+      <Item value="ShowDialog`0" priority="1" />
+      <Item value="close" priority="1" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="9" />
+      <Item value="Add`0" priority="32" />
+      <Item value="ToArray`0" priority="12" />
+      <Item value="Contains`0" priority="1" />
+      <Item value="Clear`0" priority="3" />
+      <Item value="Insert`0" priority="1" />
+      <Item value="Sort`0" priority="0" />
+      <Item value="AddRange`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="14" />
+      <Item value="Focus`0" priority="0" />
+      <Item value="Enabled" priority="0" />
+      <Item value="ForeColor" priority="0" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="InnerText" priority="9" />
+      <Item value="Attributes" priority="9" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.UpdateTimer">
+      <Item value="message" priority="0" />
+      <Item value="window" priority="0" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Timers.Timer">
+      <Item value="Elapsed" priority="0" />
+      <Item value="Interval" priority="0" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Stop`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Run`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="IsBackground" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="Start`0" priority="0" />
+      <Item value="Abort`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="WriteLine`0" priority="5" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Visible" priority="2" />
+      <Item value="Focus`0" priority="5" />
+      <Item value="CanFocus" priority="0" />
+      <Item value="Select`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="17" />
+      <Item value="Split`0" priority="5" />
+      <Item value="Text" priority="0" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="FileName" priority="3" />
+      <Item value="Filter" priority="0" />
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BookResearcher.ItemLookup">
+      <Item value="MY_AWS_ACCESS_KEY_ID" priority="3" />
+      <Item value="MY_AWS_SECRET_KEY" priority="3" />
+      <Item value="SetDefaultAccountDetails`0" priority="1" />
+      <Item value="FetchInformation`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.AccountDetails">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.SignedRequestHelper">
+      <Item value="Sign`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BookResearcher.AccountDetailsContainer">
+      <Item value="SerialFor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.Formatters.Binary.BinaryFormatter">
+      <Item value="Deserialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.MessageForm">
+      <Item value="ShowDialog`0" priority="1" />
+      <Item value="message" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="StartPosition" priority="0" />
+      <Item value="CenterToScreen`0" priority="0" />
+      <Item value="Center`0" priority="0" />
+      <Item value="close" priority="1" />
+      <Item value="SetMessage`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+      <Item value="Show`0" priority="2" />
+      <Item value="ControlBox" priority="0" />
+      <Item value="MinimizeBox" priority="0" />
+      <Item value="MainMenuStrip" priority="0" />
+      <Item value="MaximizeBox" priority="1" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.AccountDetailsContainer">
+      <Item value="MY_AWS_SECRET_KEY" priority="2" />
+      <Item value="MY_AWS_ACCESS_KEY_ID" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.AccountLoadForm">
+      <Item value="ShowDialog`0" priority="1" />
+      <Item value="Close`0" priority="0" />
+      <Item value="ControlBox" priority="0" />
+      <Item value="ActiveControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="2" />
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.ItemLookup">
+      <Item value="TotalRequests" priority="6" />
+      <Item value="CurrentRequests" priority="1" />
+      <Item value="Index" priority="2" />
+      <Item value="Error" priority="0" />
+      <Item value="Requests" priority="2" />
+      <Item value="CreateTable`0" priority="0" />
+      <Item value="CurrentRequest" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.BackgroundWorker">
+      <Item value="RunWorkerAsync`0" priority="2" />
+      <Item value="CancelAsync`0" priority="0" />
+      <Item value="IsBusy" priority="3" />
+      <Item value="DoWork" priority="0" />
+      <Item value="ReportProgress`0" priority="1" />
+      <Item value="WorkerReportsProgress" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.AccountDetailsForm">
+      <Item value="components" priority="0" />
+      <Item value="accessKeyID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Keys">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.FormStartPosition">
+      <Item value="CenterScreen" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Close`0" priority="2" />
+      <Item value="EndRead`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.ProgressForm">
+      <Item value="parentForm" priority="0" />
+      <Item value="itemLookup" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="mainForm" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.MainForm">
+      <Item value="Table" priority="0" />
+      <Item value="ItemLookup" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FormBorderStyle">
+      <Item value="FixedDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ProgressBar">
+      <Item value="PerformStep`0" priority="0" />
+      <Item value="Value" priority="1" />
+      <Item value="Minimum" priority="0" />
+      <Item value="Maximum" priority="0" />
+      <Item value="Update`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.ProgressChangedEventArgs">
+      <Item value="ProgressPercentage" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="DownloadFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XDocument">
+      <Item value="Document" priority="1" />
+      <Item value="Elements`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.CsvTable">
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="Load`0" priority="0" />
+      <Item value="GetElementsByTagName`0" priority="7" />
+      <Item value="InnerText" priority="4" />
+      <Item value="GetElementById`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="Value" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="2" />
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.AmazonForm">
+      <Item value="ISBNCheck" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="ShowDialog`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.WorldCatSearch">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.Menu">
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.AmazonLookup">
+      <Item value="ISBNs" priority="0" />
+      <Item value="ResponseGroup" priority="0" />
+      <Item value="CurrentRequest" priority="1" />
+      <Item value="TotalRequests" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckedListBox">
+      <Item value="CheckedItems" priority="5" />
+      <Item value="Items" priority="0" />
+      <Item value="CheckedIndices" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNodeList">
+      <Item value="Count" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.WorldCatLookup">
+      <Item value="ISBNs" priority="0" />
+      <Item value="TotalRequests" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.Progress">
+      <Item value="tableCompilation" priority="1" />
+      <Item value="Lookup" priority="1" />
+      <Item value="ShowDialog`0" priority="2" />
+      <Item value="OnShown`0" priority="0" />
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.Lookup">
+      <Item value="TotalRequests" priority="0" />
+      <Item value="CreateTable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttributeCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.GoodReads.GoodReadsSearch">
+      <Item value="CreateTable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.MessageBox">
+      <Item value="ShowDialog`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Seconds" priority="0" />
+      <Item value="TotalSeconds" priority="0" />
+      <Item value="Minutes" priority="0" />
+      <Item value="TotalMilliseconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.GoodReads.GoodReadsAccountDetailsForm">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.GoodReads.GoodReadsAccountDetails">
+      <Item value="key" priority="0" />
+      <Item value="secret" priority="0" />
+      <Item value="Key" priority="0" />
+      <Item value="Secret" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BookResearcher.GoodReads.GoodReadsSearch">
+      <Item value="Key" priority="2" />
+      <Item value="Secret" priority="2" />
+      <Item value="GetXmlUrl`0" priority="0" />
+      <Item value="SetDefaultAccountDetails`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="0" />
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.LinkLabel">
+      <Item value="Links" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.LinkLabel+LinkCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.LinkLabelLinkClickedEventArgs">
+      <Item value="Link" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.LinkLabel+Link">
+      <Item value="LinkData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RichTextBox">
+      <Item value="Lines" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BookResearcher.RichMessageBox">
+      <Item value="Text" priority="0" />
+      <Item value="ShowDialog`0" priority="3" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:CsvHandler.cs" caret="693" fromTop="6" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:app.config" caret="0" fromTop="0" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:MessageBox.Designer.cs" caret="2574" fromTop="64" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonLoadForm.Designer.cs" caret="0" fromTop="0" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonForm.Designer.cs" caret="12902" fromTop="8" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatForm.Designer.cs" caret="7287" fromTop="11" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:SignedRequestHelper.cs" caret="3288" fromTop="27" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Search.cs" caret="293" fromTop="10" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Program.cs" caret="341" fromTop="15" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsForm.Designer.cs" caret="690" fromTop="0" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonAccountDetails.cs" caret="0" fromTop="0" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonLoadForm.cs" caret="0" fromTop="0" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsSearch.cs" caret="1070" fromTop="20" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsAccountDetails.cs" caret="151" fromTop="7" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsLoadForm.cs" caret="0" fromTop="0" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonSearch.cs" caret="1124" fromTop="12" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonAccountDetailsForm.cs" caret="1559" fromTop="22" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsAccountDetailsForm.cs" caret="1046" fromTop="12" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:MessageBox.cs" caret="624" fromTop="8" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatSearch.cs" caret="1234" fromTop="7" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:RichMessageBox.cs" caret="602" fromTop="13" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Menu.cs" caret="545" fromTop="12" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatForm.cs" caret="504" fromTop="17" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsForm.cs" caret="1399" fromTop="35" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Progress.cs" caret="651" fromTop="22" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonForm.cs" caret="2635" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsForm.cs" caret="0" fromTop="0" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatSearch.cs" caret="1028" fromTop="17" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatSearch.cs" caret="981" fromTop="3" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatSearch.cs" caret="1278" fromTop="10" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatSearch.cs" caret="1234" fromTop="7" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatForm.cs" caret="2838" fromTop="9" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:MessageBox.cs" caret="379" fromTop="16" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsAccountDetailsForm.cs" caret="1042" fromTop="12" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:MessageBox.cs" caret="273" fromTop="7" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatForm.cs" caret="1575" fromTop="0" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:RichMessageBox.cs" caret="336" fromTop="10" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonForm.cs" caret="844" fromTop="11" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonForm.cs" caret="7620" fromTop="0" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonForm.cs" caret="10292" fromTop="12" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsForm.cs" caret="785" fromTop="16" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:RichMessageBox.cs" caret="625" fromTop="22" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:RichMessageBox.cs" caret="802" fromTop="23" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:RichMessageBox.cs" caret="602" fromTop="13" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonForm.cs" caret="1257" fromTop="20" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonForm.cs" caret="512" fromTop="15" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonForm.cs" caret="6012" fromTop="15" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:Amazon/f:AmazonForm.cs" caret="10239" fromTop="38" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Menu.cs" caret="1868" fromTop="34" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Menu.cs" caret="1893" fromTop="34" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatForm.cs" caret="646" fromTop="17" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/f:Menu.cs" caret="545" fromTop="12" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatForm.cs" caret="6813" fromTop="34" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:WorldCat/f:WorldCatForm.cs" caret="6836" fromTop="34" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsForm.cs" caret="7943" fromTop="32" />
+      <File id="348AF6FD-FBE3-478C-89CA-85C28B51298D/d:GoodReads/f:GoodReadsForm.cs" caret="1399" fromTop="35" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

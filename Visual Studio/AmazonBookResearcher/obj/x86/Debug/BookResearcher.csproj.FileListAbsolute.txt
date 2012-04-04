@@ -1,0 +1,116 @@
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe.config
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe.manifest
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\bin\Debug\BookResearcher.application
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\bin\Debug\BookResearcher.pdb
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.AmazonAccountDetails.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Menu.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.MessageBox.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Progress.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Properties.Resources.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.exe.manifest
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.application
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.exe
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.pdb
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Amazon.AmazonForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.WorldCat.WorldCatForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsAccountDetailsForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsLoadForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\AmazonBookResearcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Amazon.AmazonLoadForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe.config
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe.manifest
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.application
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.pdb
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.AmazonAccountDetails.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Amazon.AmazonLoadForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsAccountDetailsForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsLoadForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Menu.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.MessageBox.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Amazon.AmazonForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Progress.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Properties.Resources.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.WorldCat.WorldCatForm.resources
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.exe.manifest
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.application
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.exe
+C:\Users\Cody Stebbins\Documents\Visual Studio 2010\Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.pdb
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe.config
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.exe
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.pdb
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe.config
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.exe
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.pdb
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe.manifest
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.application
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.pdb
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.AmazonAccountDetails.resources
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsAccountDetailsForm.resources
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsForm.resources
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsLoadForm.resources
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Menu.resources
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Progress.resources
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Properties.Resources.resources
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.WorldCat.WorldCatForm.resources
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.exe.manifest
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.application
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Amazon.AmazonForm.resources
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.RichMessageBox.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe.manifest
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.application
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.pdb
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.AmazonAccountDetails.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Amazon.AmazonLoadForm.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsAccountDetailsForm.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsForm.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsLoadForm.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Menu.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.MessageBox.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Amazon.AmazonForm.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Progress.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Properties.Resources.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.RichMessageBox.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.WorldCat.WorldCatForm.resources
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.exe.manifest
+C:\Users\CodyS\My Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.application
+C:\Users\Cody Stebbins\Dropbox\Visual Studio Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.MMessageBox.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe.config
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.exe
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.pdb
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe.manifest
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.application
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.exe
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\bin\Debug\BookResearcher.pdb
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.AmazonAccountDetails.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsAccountDetailsForm.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsForm.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.GoodReads.GoodReadsLoadForm.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Menu.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.MMessageBox.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.AmazonForm.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Progress.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.Properties.Resources.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.RichMessageBox.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.WorldCat.WorldCatForm.resources
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.exe.manifest
+C:\Users\Cody Stebbins\Dropbox\Programming Projects\Book Researcher\AmazonBookResearcher\obj\x86\Debug\BookResearcher.application

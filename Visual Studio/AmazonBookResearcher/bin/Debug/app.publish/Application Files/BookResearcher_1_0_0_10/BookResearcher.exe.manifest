@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="BookResearcher.exe" version="1.0.0.10" publicKeyToken="39ee628a3a9b3061" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BookResearcher" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="BookResearcher.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BookResearcher.exe" size="59392">
+      <assemblyIdentity name="BookResearcher" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>M6VKOxtMeGsS8iILXBrwPjG+YYE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BookResearcher.exe.config" size="144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cpzNzlRjZspwKGLNlX6RAlU3880=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CodyS-Laptop\Cody Stebbins" issuerKeyHash="a2b82f592b8a540a8b53c0dbbef2e0ba89149321" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>DOiFIHZu7Yv+BXO74GSfArkxIC0=</DigestValue></Reference></SignedInfo><SignatureValue>du5752AmSnDQzyMgunruPROwVfGGSh/mwp8kskbksBwz6OdSqmWAKLIEYrlUuJPgfY/RgcfhExH7Wsuvd0MSfHWXM5XDzAbEum7FugDv/uM7Q9bC2vOqn3pGEEGhFwVN1X+QqqLZt0N+JLRLvPM/KjgPjHNb+RxCIS9yF1LLWRs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2qotNCeiG6cFMX7d47uZtSKJyqWgiiaky/wZDjc28pKNEFS1beyOvaWeeBRE9f3AYt/zM2ravOXoC/lm/269Mg9UJ5F5QLI2mzod3UJrAi8dUISNiJuI5d2C5TXxRh25Q8P8UaoJBKz3pJBM1bgfXSxo5QiEQIBC13vqeU39f6M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2d2031b9029f64e0bb7305fe8bed6e762085e80c" Description="" Url=""><as:assemblyIdentity name="BookResearcher.exe" version="1.0.0.10" publicKeyToken="39ee628a3a9b3061" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CodyS-Laptop\Cody Stebbins</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>/VnKAWOwcZF1G+SB9ASEGsmKbNM=</DigestValue></Reference></SignedInfo><SignatureValue>BF+yp/nE/3nvnIKGP/xym6I5S4vCfBMWqQMIh/amuvTLIMmRqz2TGt4cZv9g48jPNp2qexRf8byX5/c7k8q7r5ZFsvY5c8jN4BQV+4pVdO8xeSz0WbQx37JrEwWUq+ok1FUVR7hZ6iFh/SwPCxCxV2ROf3BrvpOL3LTJFm+MdsI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2qotNCeiG6cFMX7d47uZtSKJyqWgiiaky/wZDjc28pKNEFS1beyOvaWeeBRE9f3AYt/zM2ravOXoC/lm/269Mg9UJ5F5QLI2mzod3UJrAi8dUISNiJuI5d2C5TXxRh25Q8P8UaoJBKz3pJBM1bgfXSxo5QiEQIBC13vqeU39f6M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQMpYUZPpc/LZG/ZBFflvfejANBgkqhkiG9w0BAQUFADA/MT0wOwYDVQQDHjQAQwBvAGQAeQBTAC0ATABhAHAAdABvAHAAXABDAG8AZAB5ACAAUwB0AGUAYgBiAGkAbgBzMB4XDTExMDQxNjA1NDk1NVoXDTEyMDQxNTExNDk1NVowPzE9MDsGA1UEAx40AEMAbwBkAHkAUwAtAEwAYQBwAHQAbwBwAFwAQwBvAGQAeQAgAFMAdABlAGIAYgBpAG4AczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA2qotNCeiG6cFMX7d47uZtSKJyqWgiiaky/wZDjc28pKNEFS1beyOvaWeeBRE9f3AYt/zM2ravOXoC/lm/269Mg9UJ5F5QLI2mzod3UJrAi8dUISNiJuI5d2C5TXxRh25Q8P8UaoJBKz3pJBM1bgfXSxo5QiEQIBC13vqeU39f6MCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBaPhwyuIL9N8t3oXIr5hsAed2E0lva2RLiXDSMgWFZDXp+uSnvH2u1W4DSfuKBqfv3MAcWXpZihhAXW985scVezGOs1m1D4c8xdEw1IuyfwV2eRA5qxZ7jOZG5xEK/bMOzP9aX8z216oBBUDIMtuDPWWII2Iavr/+l5F3xAb1qGw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
